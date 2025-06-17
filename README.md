@@ -4,7 +4,6 @@
     Feel free to take inspiration from my work or reach out to collaborate.
 -->
 
-### 🔳 GitHub Widget
 <a href="https://jurre.me/">
   <img src="https://github.com/EsElCamii/Camilo-Quiros/blob/main/CAMILOOO.png" alt="Camilo" />
 </a>
